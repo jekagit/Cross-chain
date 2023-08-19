@@ -2,7 +2,7 @@
 1. [Que es?](#Que-es?)
 2. [Cuando utilizarlo](#Cuando_utilizarlo?)
 3. [ventajas](#ventajas)
-4. [Collaboration](#collaboration)
+4. [Desventajas](#desventajas)
 5. [FAQs](#faqs)
 ### General Info
 ***
