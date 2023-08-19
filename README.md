@@ -1,7 +1,7 @@
 # Cross-chain#
 1. [Que es?](#Que-es?)
 2. [Cuando utilizarlo](#Cuando_utilizarlo?)
-3. [Installation](#installation)
+3. [ventajas](#ventajas)
 4. [Collaboration](#collaboration)
 5. [FAQs](#faqs)
 ### General Info
