@@ -3,7 +3,7 @@
 2. [Cuando utilizarlo](#Cuando_utilizarlo?)
 3. [ventajas](#ventajas)
 4. [Desventajas](#desventajas)
-5. [FAQs](#faqs)
+5. [Utilidad](#Utilidad)
 ### General Info
 ***
 Write down the general informations of your project. It is worth to always put a project status in the Readme file. This is where you can add it. 
