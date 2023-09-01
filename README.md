@@ -1,5 +1,5 @@
 # Cross-chain#
-1. [Que es?](#Que-es?)
+1. [Que es?.](#Que-es?.)
 2. [Cuando utilizarlo.?](#Cuando_utilizarlo.?)
 4. [ventajas](#ventajas)
 5. [Desventajas](#desventajas)
